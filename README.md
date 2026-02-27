@@ -1,6 +1,5 @@
 # hacker-news-scraper-json
 Python web scraper that extracts Hacker News posts including title, author, score, and comments, and saves them to JSON.
-# scraper.py (JSON)
 
 This project is a Python web scraper that extracts data from Hacker News.
 
